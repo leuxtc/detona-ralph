@@ -4,7 +4,7 @@ Bem-vindo ao **Desafio Detona Ralph**! Neste repositório, você encontrará um 
 
 ![Gif do jogo](src/img/game.gif)
 
-[Jogue aqui!](https://leuxtc.github.io/detona-ralph/)
+### [Jogue aqui!](https://leuxtc.github.io/detona-ralph/)
 
 ### Tecnologias Utilizadas
 
